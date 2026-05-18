@@ -1363,6 +1363,7 @@ const ru: Messages = {
   'terminal.menu.paste': 'Вставить',
   'terminal.menu.pasteSelection': 'Вставить выделенное',
   'terminal.menu.selectAll': 'Выбрать всё',
+  'terminal.menu.reconnect': 'Переподключиться',
   'terminal.menu.splitHorizontal': 'Разделить по горизонтали',
   'terminal.menu.splitVertical': 'Разделить по вертикали',
   'terminal.menu.clearBuffer': 'Очистить буфер',
